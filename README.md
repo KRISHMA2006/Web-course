@@ -1,5 +1,4 @@
 # Web-course
 
 # click here for output
-
- file:///C:/Users/student/Desktop/kRISHMA/index.html
+http://127.0.0.1:3000/index.html
